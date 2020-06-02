@@ -1,92 +1,75 @@
-
-p
-{
-	line-height: 0.5;
+p {
+    line-height: 0.5;
 }
 
-.couleurPapilles
-{
-	background-color: #edefef;
-}
-.policePapille
-{
-	font-family: 'Dancing Script', cursive;
-	font-size: 70px;
-	background: -o-linear-gradient(3deg, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
-	background: linear-gradient(87deg, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-}
-.conteneur
-{
-	margin-left: 60px;
-	margin-right: 60px;
+.couleurPapilles {
+    background-color: #edefef;
 }
 
-.couleurUn
-{
-	background: #090979;
+.policePapille {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    background: -o-linear-gradient(3deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
+    background: linear-gradient(87deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-.couleurDeux
-{
-	background: #0566b6;
+.conteneur {
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
-.couleurTrois
-{
-	background: #00d4ff;
+.couleurUn {
+    background: #090979;
 }
 
+.couleurDeux {
+    background: #0566b6;
+}
+
+.couleurTrois {
+    background: #00d4ff;
+}
 
 /*menu*/
-
-
-
-
 /*soustitre*/
-.titre
-{
-	background:initial;
-	max-width: 800px;
-	white-space: nowrap;
-	margin-bottom: 30px;
-	text-align: center;
-	margin-left: 20px;
-	margin-right: 20px;
-	overflow: hidden;
+.titre {
+    background: initial;
+    max-width: 800px;
+    white-space: nowrap;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: hidden;
 }
 
-.titre h4
-{
-	display:inline-block;
-	text-decoration: none;
-	padding:0 0.5em;
-	margin:0;
-	position:relative;
+.titre h4 {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 0.5em;
+    margin: 0;
+    position: relative;
 }
 
-
-
-.titreDelice
-{
-	color: black;
-	font-family: 'Caveat', cursive;
-	font-size: 40px;
+.titreDelice {
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
 }
-#espace
-{
-	text-align: center;
-	margin-top: 50px;
+
+#espace {
+    text-align: center;
+    margin-top: 50px;
 }
-.policeDelice
-{
-	font-family: 'Caveat', cursive;
-	font-size: 30px;
+
+.policeDelice {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
 }
 
 /*Encadrement*/
-hr
-{
-	width: 200px;
+hr {
+    width: 200px;
 }
