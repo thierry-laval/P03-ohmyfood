@@ -1,28 +1,23 @@
-@media all and (max-width: 1600px)
-{
-    * 
-    {
+@media all and (max-width: 1600px) {
+    * {
         margin: 0;
         padding: 0;
         border: 0;
         font-style: normal;
-        text-decoration: none; 
+        text-decoration: none;
     }
 
-    html
-    {
+    html {
         height: 100%;
         width: auto;
     }
 
-    body
-    {
-        font-size:16px;
+    body {
+        font-size: 16px;
     }
 
     /*Image de marque*/
-    header
-    {
+    header {
         background-color: #569C87;
         color: #DCBF5D;
         text-align: center;
@@ -30,70 +25,64 @@
         padding-bottom: 20px;
     }
 
-    h1
-    {
+    h1 {
         font-family: 'Open Sans', sans-serif;
         font-size: 1.5em;
     }
 
     /*corp*/
 
-    .conteneur
-    {
+    .conteneur {
         display: flex;
         flex-direction: column;
     }
 
-    .titre
-    {
+    .titre {
         display: flex;
         flex-direction: column;
     }
 
-    #entree, #plat, #dessert
-    {
+    #entree,
+    #plat,
+    #dessert {
         padding-top: 0px;
     }
 
-    .prix
-    {
+    .prix {
         padding-top: 20px;
         padding-bottom: 100px;
         text-align: center;
     }
 
-    .description
-    {
+    .description {
         text-align: center;
     }
 
-    .titre h4
-    {
+    .titre h4 {
         font-size: 20px;
     }
 
-    .titre hr
-    {
+    .titre hr {
         border: 0px;
         width: auto;
     }
 
-    #dessert > .conteneur
-    {
+    #dessert>.conteneur {
         padding-top: 30px;
     }
 
-    footer
-    {
-        margin:0 auto !important;
+    footer {
+        margin: 0 auto !important;
         width: 100%;
         font-size: 16px;
     }
 
-    .policeNote, .policePapille, .policeChic, .policePalette
-    {
+    .policeNote,
+    .policePapille,
+    .policeChic,
+    .policePalette {
         padding-bottom: 30px;
         font-size: 40px;
     }
-    
+
 }
