@@ -279,9 +279,6 @@ footer {
     -ms-flex-pack: justify;
     justify-content: space-between;
 
-
-
-
 /* arevoir la position pourquoi fixed par sticky et reduire le margin botton du bouton*/
 
     position: sticky;
