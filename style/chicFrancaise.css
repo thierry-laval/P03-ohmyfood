@@ -1,0 +1,223 @@
+.couleurChic
+{
+	background-color: #fff5fe;
+}
+
+.policeFrancaise
+{
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+}
+
+.conteneur
+{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.colorTexteUn
+{
+	color: #f59e07;
+}
+
+.colorTexteDeux
+{
+	color: #b137a8;
+}
+
+.colorTexteTrois
+{
+	color: #8d00ff;
+}
+
+/*Menu*/
+/*Sous-Titre*/
+.titre
+{
+	background:initial;
+	max-width: 800px;
+	white-space: nowrap;
+	margin-bottom: 30px;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+	overflow: hidden;
+}
+
+.titre h4
+{
+	display:inline-block;
+	text-decoration: none;
+	padding:0 0.5em;
+	margin:0;
+	position:relative;
+}
+
+.titreChicUn
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #f59e07;
+}
+
+.titreChicDeux
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #b137a8;
+}
+
+.titreChicTrois
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #8d00ff;
+}
+
+#espace
+{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.policeChic
+{
+	font-family: 'Old Standard TT', serif;
+	font-size: 50px;
+	background: -o-linear-gradient(328deg, rgba(245,158,7,1) 0%, rgba(141,0,255,1) 100%);
+	background: linear-gradient(122deg, rgba(245,158,7,1) 0%, rgba(141,0,255,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+/*encadrement sous titre*/
+hr
+{
+	width: 200px;
+}
+
+.triangleDroiteUn
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-bottom : 3px solid transparent;
+	border-left : 150px solid #f59e07;
+}
+
+.triangleGaucheUn
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 150px solid #f59e07;
+	border-bottom : 3px solid transparent;
+}
+
+.teteTriangleDroiteUn
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 15px solid #f59e07;
+	border-bottom : 3px solid transparent;
+	margin-right: -10px;
+}
+
+.teteTriangleGaucheUn
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-left : 15px solid #f59e07;
+	border-bottom : 3px solid transparent;
+	margin-left: -10px;
+}
+
+.triangleDroiteDeux
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-bottom : 3px solid transparent;
+	border-left : 150px solid #b137a8;
+}
+
+.triangleGaucheDeux
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 150px solid #b137a8;
+	border-bottom : 3px solid transparent;
+}
+
+.teteTriangleDroiteDeux
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 15px solid #b137a8;
+	border-bottom : 3px solid transparent;
+	margin-right: -10px;
+}
+
+.teteTriangleGaucheDeux
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-left : 15px solid #b137a8;
+	border-bottom : 3px solid transparent;
+	margin-left: -10px;
+}
+
+.triangleDroiteTrois
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-bottom : 3px solid transparent;
+	border-left : 150px solid #8d00ff;
+}
+
+.triangleGaucheTrois
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 150px solid #8d00ff;
+	border-bottom : 3px solid transparent;
+}
+
+.teteTriangleDroiteTrois
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-right : 15px solid #8d00ff;
+	border-bottom : 3px solid transparent;
+	margin-right: -10px;
+}
+
+.teteTriangleGaucheTrois
+{
+	display : inline-block;
+	height : 0;
+	width : 0;
+	border-top : 3px solid transparent;
+	border-left : 15px solid #8d00ff;
+	border-bottom : 3px solid transparent;
+	margin-left: -10px;
+}
