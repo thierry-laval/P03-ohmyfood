@@ -278,9 +278,6 @@ footer {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-
-/* arevoir la position pourquoi fixed par sticky et reduire le margin botton du bouton*/
-
     position: sticky;
     bottom: 0;
     width: 900px;
