@@ -159,7 +159,7 @@ footer {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 900px;
 }
