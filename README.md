@@ -6,6 +6,14 @@
 <span style="color:blue">some *blue* text</span>
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
+<font color='red'>test blue color font</font>
+
+$\color{color-code}{your-text-here}$
+
+This is *red*{: style="color: red"}.
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
+
 ## Projet 3 - Création du site Ohmyfood! Paris
 
 ![left 100%](./images/logo_ohmyfood.png)
