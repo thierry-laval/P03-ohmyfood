@@ -1,7 +1,7 @@
 
 ![left 100%](images/Logo_OpenClassrooms.png) 
 # OpenClassrooms-Développeur Web
-_<span style="color:#9370DB">Début de formation le 20/04/2020</span>_
+_<font color="#9370DB">Début de formation le 20/04/2020>_
 
 ## Projet 3 - Création du site Ohmyfood! Paris
 
@@ -33,4 +33,7 @@ Compétences évaluées:
 
 [Validation css en ligne]([./blob/master/01%20-%20Projet%20et%20validations/Validation%20css.png](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr))
 
+
+
+Voir + tard pour créer un fond !
 ![bg](images/paper.jpg)
