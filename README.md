@@ -1,7 +1,7 @@
 
 ![left 100%](images/Logo_OpenClassrooms.png) 
 # 🔨 OpenClassrooms-Développeur Web
-_Début de formation le 20/04/2020_<span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
+_Début de formation le 20/04/2020_
 
 ## Projet 3 - Création du site Ohmyfood! Paris
 
@@ -25,9 +25,7 @@ Compétences évaluées:
 
 [Briefing créatif d'Ohmyfood](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
 
-[Maquettes d'Ohmyfood](#){.btn .btn-info}(./Briefing_OpenClassrooms/Maquettes)
-
-[Info](#){.btn .btn-info}
+[Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
 
 ### Les validations en ligne
 
