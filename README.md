@@ -16,6 +16,6 @@ Compétences évaluées:
 
 
 
-Ici ce qui suit [Lien](./Projet et validations/Validation html.png "Validation html").
+[Validation html](../O1 - Projet et validations/Validation html.png)
 <br>
-Ici ce qui suit [Lien](./Projet et validations/Validation html.png "Validation html").
+[Validation css](../O1 - Projet et validations/Validation css.png)
