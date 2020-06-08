@@ -6,7 +6,7 @@ _Début de formation le 20/04/2020_
 ## Projet 3 - Création du site Ohmyfood! Paris
 ![left 100%](./images/logo_ohmyfood.png)
 
-### ![left 100%](images/icons8.png)Construire un site pour pouvoir afficher les différents menus
+### ![left 50%](images/icons8.png)Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
 
 Voir : [le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
