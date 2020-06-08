@@ -5,7 +5,7 @@ Début de formation le 20/04/2020
 <br>
 <h2>Projet 3 - Création du site Ohmyfood! Paris</h2>
 
-![50% left](./images/logo_ohmyfood.png)
+![left 50%](./images/logo_ohmyfood.png)
 <br>
 Site : [GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir la page")
 
