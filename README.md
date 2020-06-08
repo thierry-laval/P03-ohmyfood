@@ -6,7 +6,8 @@ Début de formation le 20/04/2020
 <h2>Projet 3 - Création du site Ohmyfood! Paris</h2>
 
 ![50% left](./images/logo_ohmyfood.png)
-Site : https://thierry-laval.github.io/Ohmyfood/ Code source : [GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour obtenir le code source")
+<br>
+Site : [GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir la page")
 
 <h2>Construire un site pour pouvoir afficher les différents menus</h2>
 https://openclassrooms.com/fr/projects/637/assignment
