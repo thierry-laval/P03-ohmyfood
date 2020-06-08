@@ -25,7 +25,7 @@ Compétences évaluées:
 
 [Briefing créatif d'Ohmyfood](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
 
-[Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
+[Maquettes d'Ohmyfood](#){.btn .btn-info}(./Briefing_OpenClassrooms/Maquettes)
 
 [Maquette](#){.btn .btn-info}
 
