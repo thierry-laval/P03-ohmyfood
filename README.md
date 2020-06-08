@@ -5,7 +5,7 @@
 Début de formation le 20/04/2020
 <br>
 <h2>Projet 3 - Création du site Ohmyfood! Paris</h2>
-![20% left](images/logo_ohmyfood.png)
+![20% left](./images/logo_ohmyfood.png)
 
 <h2>Construire un site pour pouvoir afficher les différents menus</h2>
 https://openclassrooms.com/fr/projects/637/assignment
@@ -19,7 +19,7 @@ Compétences évaluées:
 # 🔨 Utilisé dans ce projet
 
 
-![20% left](Briefing d'OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
+[Briefing](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
 
 <h2>Les validation en ligne</h2>
 
