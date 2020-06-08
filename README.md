@@ -3,7 +3,8 @@
 # ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
 _Début de formation le 20/04/2020_
 
-## Projet 3 - Création du site Ohmyfood! Paris ![left 100%](./images/logo_ohmyfood.png)
+## Projet 3 - Création du site Ohmyfood! Paris
+![left 100%](./images/logo_ohmyfood.png)
 
 ### ![left 100%](images/icons8.png)Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
