@@ -6,15 +6,15 @@ Début de formation le 20/04/2020
 <h2>Projet 3 - Création du site Ohmyfood! Paris</h2>
 
 ![left 100%](./images/logo_ohmyfood.png)
-<br>
+
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
 
 <h3>Construire un site pour pouvoir afficher les différents menus</h3>
 Voir : [le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
 
 <h4>Dynamisez une page web avec des animations CSS</h4>
-<br>
 Compétences évaluées:
+<br>
 - Mettre en œuvre des effets CSS graphiques avancés
 - Assurer la cohérence graphique d'un site web
 - Mettre en place une structure de navigation pour un site web
@@ -25,7 +25,7 @@ Compétences évaluées:
 <br>
 [Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
 
-<h3>Les validation en ligne</h3>
+<h3>Les validations en ligne</h3>
 
 [Validation html en ligne]([./blob/master/01%20-%20Projet%20et%20validations/Validation%20html.png](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F))
 
