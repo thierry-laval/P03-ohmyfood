@@ -11,7 +11,10 @@
 $\color{color-code}{your-text-here}$
 
 This is *red*{: style="color: red"}.
+
 **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
+Dans sa barbe vivaient trois <span style="color:red">cardinaux</span>.
 
 
 ## Projet 3 - Création du site Ohmyfood! Paris
