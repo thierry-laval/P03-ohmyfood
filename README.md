@@ -18,4 +18,5 @@ Compétences évaluées:
 
 [Validation html](./O1 - Projet et validations/Validation html.png)
 <br>
-[Validation css](./O1 - Projet et validations/Validation css.png)
+[Validation css](./blob/master/01%20-%20Projet%20et%20validations/Validation%20css.png)
+
