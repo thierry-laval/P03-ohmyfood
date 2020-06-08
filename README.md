@@ -1,5 +1,5 @@
 
-![5% left](images/Logo_OpenClassrooms.png)
+![100% left](images/Logo_OpenClassrooms.png)
 <H1>OpenClassrooms-Développeur Web</H1>
 
 Début de formation le 20/04/2020
