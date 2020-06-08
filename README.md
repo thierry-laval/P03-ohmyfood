@@ -1,11 +1,13 @@
 
 ![100% left](images/Logo_OpenClassrooms.png)
+
 <H1>OpenClassrooms-Développeur Web</H1>
 
 Début de formation le 20/04/2020
 <br>
 <h2>Projet 3 - Création du site Ohmyfood! Paris</h2>
-![20% left](./images/logo_ohmyfood.png)
+
+![100% left](./images/logo_ohmyfood.png)
 
 <h2>Construire un site pour pouvoir afficher les différents menus</h2>
 https://openclassrooms.com/fr/projects/637/assignment
