@@ -1,21 +1,7 @@
 
 ![left 100%](images/Logo_OpenClassrooms.png) 
 # OpenClassrooms-Développeur Web
-<font color="#9370DB">_Début de formation le 20/04/2020_</font>
-
-<span style="color:blue">some *blue* text</span>
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
-<font color='red'>test blue color font</font>
-
-$\color{color-code}{your-text-here}$
-
-This is *red*{: style="color: red"}.
-
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
-
-Dans sa barbe vivaient trois <span style="color:red">cardinaux</span>.
-
+_Début de formation le 20/04/2020_
 
 ## Projet 3 - Création du site Ohmyfood! Paris
 
