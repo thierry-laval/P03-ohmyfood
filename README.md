@@ -8,9 +8,14 @@ Début de formation le 20/04/2020
 ![left 100%](./images/logo_ohmyfood.png)
 <br>
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
+Voir le projet sur : [OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
 
 <h3>Construire un site pour pouvoir afficher les différents menus</h3>
-Site : [OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
+
+
+
+
+
 <br>
 <h4>Dynamisez une page web avec des animations CSS</h4>
 <br>
