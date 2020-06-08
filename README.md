@@ -3,7 +3,13 @@
 # OpenClassrooms-Développeur Web
 <font color="#9370DB">_Début de formation le 20/04/2020_</font>
 
-<font color="purple">violet</font><br />
+<font color="purple">violet</font>
+
+<font color="#FF0000" face="verdana" size="2">
+   Ce texte a été formaté grâce à la balise font
+</font>
+<span style="color: red;">text</span>
+
 
 ## Projet 3 - Création du site Ohmyfood! Paris
 
