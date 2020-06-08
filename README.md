@@ -18,8 +18,8 @@ Compétences évaluées:
 
 # 🔨 Utilisé dans ce projet
 
-
-[Briefing](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
+[Briefing créatif d'Ohmyfood](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
+[Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
 
 <h2>Les validation en ligne</h2>
 
