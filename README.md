@@ -30,5 +30,3 @@ Compétences évaluées:
 [Validation html en ligne](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F)
 
 [Validation css en ligne](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
-
-![image de code](https://negativespace.co/wp-content/uploads/2017/10/negative-space-code-html-css-editor-boskampi-thumb-1.jpg)
