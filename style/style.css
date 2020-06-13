@@ -31,7 +31,7 @@ h1 {
 }
 
 /*Page menu*/
-aside {
+main {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
