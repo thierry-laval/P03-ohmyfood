@@ -1,10 +1,11 @@
 # ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
-_Début de formation le 20/04/2020_
-
-## Projet 3 - Création du site Ohmyfood! Paris
+_`Début de formation le 20/04/2020`_
+   <br>[🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+***
+## 📎Projet 3 - Création du site Ohmyfood! Paris
 ![left 100%](./images/logo_ohmyfood.png)
-
-### ![left 50%](images/icons8.png)Construire un site pour pouvoir afficher les différents menus
+***
+### ![left 50%](images/icons8.png) Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
 
 Voir : [le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
@@ -24,13 +25,8 @@ Compétences évaluées:
 
 [Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
 
-### Les validations en ligne
+### 🚦Les validations en ligne
 
 [Validation html en ligne](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F)
 
 [Validation css en ligne](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
-
-
-
-Voir + tard pour créer un fond !
-![bg](images/paper.jpg)
