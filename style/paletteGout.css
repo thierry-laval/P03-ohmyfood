@@ -1,88 +1,88 @@
 p {
-    line-height: 1;
+    line-height            : 1;
 }
 
 #titrePage {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    text-align: center;
+    display                : -webkit-box;
+    display                : -ms-flexbox;
+    display                : flex;
+    -webkit-box-orient     : vertical;
+    -webkit-box-direction  : normal;
+    -ms-flex-direction     : column;
+    flex-direction         : column;
+    text-align             : center;
 }
 
 .couleurPalette {
-    background-color: #fdfffd;
+    background-color       : #fdfffd;
 }
 
 .policePalette {
-    font-size: 50px;
-    padding-bottom: 30px;
-    margin-bottom: -20px;
-    font-style: italic;
-    font-family: 'Shadows Into Light', cursive;
-    background: -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    background: linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    font-size              : 50px;
+    padding-bottom         : 30px;
+    margin-bottom          : -20px;
+    font-style             : italic;
+    font-family            : 'Shadows Into Light', cursive;
+    background             : -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background             : linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .conteneur {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left            : 50px;
+    margin-right           : 50px;
 }
 
 /*menu*/
 /*soustitre*/
 .titre {
-    background: initial;
-    max-width: 800px;
-    white-space: nowrap;
-    margin-bottom: 30px;
-    text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
-    overflow: hidden;
+    background             : initial;
+    max-width              : 800px;
+    white-space            : nowrap;
+    margin-bottom          : 30px;
+    text-align             : center;
+    margin-left            : 20px;
+    margin-right           : 20px;
+    overflow               : hidden;
 }
 
 .titre h4 {
-    display: inline-block;
-    text-decoration: none;
-    padding: 0 0.5em;
-    margin: 0;
-    position: relative;
+    display                : inline-block;
+    text-decoration        : none;
+    padding                : 0 0.5em;
+    margin                 : 0;
+    position               : relative;
 }
 
 .titrePalette {
-    font-family: 'Shadows Into Light', cursive;
-    font-style: italic;
-    font-size: 30px;
-    color: black;
+    font-family            : 'Shadows Into Light', cursive;
+    font-style             : italic;
+    font-size              : 30px;
+    color                  : black;
 }
 
 #espace {
-    text-align: center;
-    margin-top: 50px;
+    text-align             : center;
+    margin-top             : 50px;
 }
 
 .policeGout {
-    font-family: 'Shadows Into Light', cursive;
-    font-size: 25px;
+    font-family            : 'Shadows Into Light', cursive;
+    font-size              : 25px;
 }
 
 /*Encadrement*/
 hr {
-    width: 300px;
+    width                  : 300px;
 }
 
 .colorPaletteDroite {
-    background: -o-linear-gradient(7deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    background: linear-gradient(83deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background             : -o-linear-gradient(7deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background             : linear-gradient(83deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
 }
 
 .colorPaletteGauche {
-    background: -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    background: linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background             : -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background             : linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
 }

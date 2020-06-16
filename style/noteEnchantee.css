@@ -1,82 +1,82 @@
 /*section*/
 img {
-    width: 15%;
-    padding-top: 50px;
+    width                : 15%;
+    padding-top          : 50px;
 }
 
 #debut,
 #logo {
-    margin-bottom: 0;
-    margin-top: 0;
+    margin-bottom        : 0;
+    margin-top           : 0;
 }
 
 p {
-    font-family: 'Caveat', cursive;
-    font-size: 27px;
+    font-family          : 'Caveat', cursive;
+    font-size            : 27px;
 }
 
 .couleurEnchantee {
-    background-color: #FCDFDA;
+    background-color     : #FCDFDA;
 }
 
 .policeNote {
-    font-family: 'Ma Shan Zheng', cursive;
-    font-size: 70px;
+    font-family          : 'Ma Shan Zheng', cursive;
+    font-size            : 70px;
 }
 
 .conteneur {
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left          : 80px;
+    margin-right         : 80px;
 }
 
 #img2 {
-    width: 7%;
-    margin-bottom: -10px;
+    width                : 7%;
+    margin-bottom        : -10px;
 }
 
 #final {
-    font-family: 'Caveat', cursive;
-    font-size: 50px;
+    font-family          : 'Caveat', cursive;
+    font-size            : 50px;
 }
 
 /*Menu*/
 /*soustitre*/
 .titre {
-    background: initial;
-    max-width: 800px;
-    margin-left: 30px;
-    margin-right: 30px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
+    background           : initial;
+    max-width            : 800px;
+    margin-left          : 30px;
+    margin-right         : 30px;
+    display              : -webkit-box;
+    display              : -ms-flexbox;
+    display              : flex;
+    -webkit-box-orient   : horizontal;
     -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
+    -ms-flex-direction   : row;
+    flex-direction       : row;
 }
 
 .titre h4 {
-    display: inline-block;
-    text-decoration: none;
-    font-size: 30px;
-    color: black;
-    font-family: 'Caveat', cursive;
-    font-size: 40px;
-    padding: 0 1em;
-    margin-top: 0;
-    margin-bottom: 20px;
-    position: relative;
+    display              : inline-block;
+    text-decoration      : none;
+    font-size            : 30px;
+    color                : black;
+    font-family          : 'Caveat', cursive;
+    font-size            : 40px;
+    padding              : 0 1em;
+    margin-top           : 0;
+    margin-bottom        : 20px;
+    position             : relative;
 }
 
 #espace {
-    text-align: center;
+    text-align           : center;
 }
 
 .couleur {
-    background: black;
+    background           : black;
 }
 
 /*encadrement*/
 hr {
-    width: 200px;
+    width                : 200px;
 }
