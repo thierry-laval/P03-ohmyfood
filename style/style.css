@@ -1,413 +1,413 @@
 /*General*/
 * {
-    -webkit-box-sizing               : border-box;
-    box-sizing                       : border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html {
-    max-width                        : 900px;
-    height                           : 100%;
-    margin                           : auto;
-    font-family                      : 'Open Sans', sans-serif;
-    line-height                      : 1.15;
+    max-width: 900px;
+    height: 100%;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.15;
 }
 
 body {
-    margin                           : 0;
+    margin: 0;
 }
 
 /*Image de marque*/
 header {
-    background-color                 : #569C87;
-    color                            : #DCBF5D;
-    text-align                       : center;
-    padding-top                      : 3px;
-    padding-bottom                   : 3px;
-    font-size                        : 30px;
+    background-color: #569C87;
+    color: #DCBF5D;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 30px;
 }
 
 h1 {
-    font-family                      : 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /*Page menu*/
 main {
-    display                          : -webkit-box;
-    display                          : -ms-flexbox;
-    display                          : flex;
-    -webkit-box-orient               : horizontal;
-    -webkit-box-direction            : normal;
-    -ms-flex-direction               : row;
-    flex-direction                   : row;
-    -webkit-box-pack                 : center;
-    -ms-flex-pack                    : center;
-    justify-content                  : center;
-    text-align                       : center;
-    margin                           : 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
 }
 
 a {
-    text-decoration                  : none;
-    color                            : black;
+    text-decoration: none;
+    color: black;
 }
 
 #gauche {
-    display                          : -webkit-box;
-    display                          : -ms-flexbox;
-    display                          : flex;
-    -webkit-box-orient               : vertical;
-    -webkit-box-direction            : normal;
-    -ms-flex-direction               : column;
-    flex-direction                   : column;
-    -webkit-box-flex                 : 1;
-    -ms-flex                         : 1;
-    flex                             : 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
 }
 
 #droite {
-    display                          : -webkit-box;
-    display                          : -ms-flexbox;
-    display                          : flex;
-    -webkit-box-orient               : vertical;
-    -webkit-box-direction            : normal;
-    -ms-flex-direction               : column;
-    flex-direction                   : column;
-    -webkit-box-flex                 : 1;
-    -ms-flex                         : 1;
-    flex                             : 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
 }
 
 #chic,
 #papille,
 #palette {
-    margin                           : 20px;
-    -webkit-box-shadow               : -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
-    box-shadow                       : -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
-    display                          : block;
+    margin: 20px;
+    -webkit-box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+    display: block;
 }
 
 #enchantee {
-    background-color                 : #FCDFDA;
-    margin                           : 20px;
-    -webkit-box-shadow               : -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
-    box-shadow                       : -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
-    display                          : block;
-    font-family                      : 'Caveat', cursive;
-    font-size                        : 30px;
+    background-color: #FCDFDA;
+    margin: 20px;
+    -webkit-box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+    display: block;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
 }
 
 #chic,
 #papille,
 #palette,
 #enchantee {
-    width                            : 400px;
-    height                           : 500px;
+    width: 400px;
+    height: 500px;
 }
 
 .alignement {
-    padding-top                      : 180px;
+    padding-top: 180px;
 }
 
 .alignementNote {
-    padding-top                      : 120px;
+    padding-top: 120px;
 }
 
 img {
-    width                            : 20%;
+    width: 20%;
 }
 
 #chic {
-    background-color                 : #FFF5FE;
+    background-color: #FFF5FE;
 }
 
 #degradeChic {
-    font-family                      : 'Old Standard TT', serif;
-    background                       : -o-linear-gradient(328deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
-    background                       : linear-gradient(122deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
-    -webkit-background-clip          : text;
-    -webkit-text-fill-color          : transparent;
-    font-size                        : 30px;
+    font-family: 'Old Standard TT', serif;
+    background: -o-linear-gradient(328deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
+    background: linear-gradient(122deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
 }
 
 #colorOrange {
-    color                            : rgba(245, 158, 7, 1);
-    font-family                      : 'Old Standard TT', serif;
-    font-size                        : 30px;
+    color: rgba(245, 158, 7, 1);
+    font-family: 'Old Standard TT', serif;
+    font-size: 30px;
 }
 
 #degradePapilles {
-    font-family                      : 'Dancing Script', cursive;
-    background                       : -o-linear-gradient(3deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
-    background                       : linear-gradient(87deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
-    -webkit-background-clip          : text;
-    -webkit-text-fill-color          : transparent;
-    font-size                        : 30px;
+    font-family: 'Dancing Script', cursive;
+    background: -o-linear-gradient(3deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
+    background: linear-gradient(87deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
 }
 
 #colorBlue {
-    color                            : rgba(0, 212, 255, 1);
-    font-family                      : 'Dancing Script', cursive;
-    font-size                        : 30px;
+    color: rgba(0, 212, 255, 1);
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
 }
 
 #degradePalette {
-    font-family                      : 'Shadows Into Light', cursive;
-    font-style                       : italic;
-    background                       : -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    background                       : linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    -webkit-background-clip          : text;
-    -webkit-text-fill-color          : transparent;
-    font-size                        : 30px;
+    font-family: 'Shadows Into Light', cursive;
+    font-style: italic;
+    background: -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background: linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
 }
 
 #colorGreen {
-    color                            : rgba(65, 150, 60, 1);
-    font-family                      : 'Shadows Into Light', cursive;
-    font-size                        : 30px;
+    color: rgba(65, 150, 60, 1);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
 }
 
 #papille {
-    background-color                 : #FDFFFD;
-    font-family                      : 'Dancing Script', cursive;
+    background-color: #FDFFFD;
+    font-family: 'Dancing Script', cursive;
 }
 
 #palette {
-    background-color                 : #F9F9F9;
+    background-color: #F9F9F9;
 }
 
 .transition>div {
-    -webkit-transform                : scale(1);
-    -ms-transform                    : scale(1);
-    transform                        : scale(1);
-    -webkit-transition-duration      : 1000ms;
-    -o-transition-duration           : 1000ms;
-    transition-duration              : 1000ms;
-    opacity                          : 1;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition-duration: 1000ms;
+    -o-transition-duration: 1000ms;
+    transition-duration: 1000ms;
+    opacity: 1;
 }
 
-.transition>div                      : hover {
-    -webkit-transform                : scale(1.27);
-    -ms-transform                    : scale(1.27);
-    transform                        : scale(1.27);
-    opacity                          : 0.33;
+.transition>div:hover {
+    -webkit-transform: scale(1.27);
+    -ms-transform: scale(1.27);
+    transform: scale(1.27);
+    opacity: 0.33;
 }
 
 /*bouton*/
 .bouton {
-    background-color                 : #569C87;
-    border-radius                    : 10px;
-    display                          : inline-block;
-    cursor                           : pointer;
-    color                            : #DCBF5D;
-    font-size                        : 30px;
-    padding                          : 12px 37px;
-    text-decoration                  : none;
-    width                            : 40%;
+    background-color: #569C87;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color: #DCBF5D;
+    font-size: 30px;
+    padding: 12px 37px;
+    text-decoration: none;
+    width: 40%;
 }
 
 #bouton {
-    text-align                       : center;
-    margin-bottom                    : 40px;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .un {
-    opacity                          : 0;
-    -webkit-animation                : dot 1.3s infinite;
-    animation                        : dot 1.3s infinite;
-    -webkit-animation-delay          : 0.0s;
-    animation-delay                  : 0.0s;
+    opacity: 0;
+    -webkit-animation: dot 1.3s infinite;
+    animation: dot 1.3s infinite;
+    -webkit-animation-delay: 0.0s;
+    animation-delay: 0.0s;
 }
 
 .deux {
-    opacity                          : 0;
-    -webkit-animation                : dot 1.3s infinite;
-    animation                        : dot 1.3s infinite;
-    -webkit-animation-delay          : 0.2s;
-    animation-delay                  : 0.2s;
+    opacity: 0;
+    -webkit-animation: dot 1.3s infinite;
+    animation: dot 1.3s infinite;
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
 }
 
 .trois {
-    opacity                          : 0;
-    -webkit-animation                : dot 1.3s infinite;
-    animation                        : dot 1.3s infinite;
-    -webkit-animation-delay          : 0.3s;
-    animation-delay                  : 0.3s;
+    opacity: 0;
+    -webkit-animation: dot 1.3s infinite;
+    animation: dot 1.3s infinite;
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
 }
 
 @-webkit-keyframes dot {
     0% {
-        opacity                      : 0;
+        opacity: 0;
     }
 
     50% {
-        opacity                      : 0;
+        opacity: 0;
     }
 
     100% {
-        opacity                      : 1;
+        opacity: 1;
     }
 }
 
 @keyframes dot {
     0% {
-        opacity                      : 0;
+        opacity: 0;
     }
 
     50% {
-        opacity                      : 0;
+        opacity: 0;
     }
 
     100% {
-        opacity                      : 1;
+        opacity: 1;
     }
 }
 
 /*footer*/
 footer {
-    background-color                 : #569C87;
-    padding-top                      : 12px;
-    padding-bottom                   : 12px;
-    font-size                        : 25px;
-    display                          : -webkit-box;
-    display                          : -ms-flexbox;
-    display                          : flex;
-    -webkit-box-orient               : horizontal;
-    -webkit-box-direction            : normal;
-    -ms-flex-direction               : row;
-    flex-direction                   : row;
-    -webkit-box-pack                 : justify;
-    -ms-flex-pack                    : justify;
-    justify-content                  : space-between;
-    position                         : sticky;
-    bottom                           : 0;
-    width                            : 100%;
+    background-color: #569C87;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 25px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
 }
 
 footer>a {
-    text-decoration                  : none;
-    color                            : #DCBF5D;
-    padding-left                     : 12px;
-    padding-right                    : 12px;
+    text-decoration: none;
+    color: #DCBF5D;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 /*Footer fonction shake*/
-footer>a                             : hover {
-    -webkit-animation                : shake 0.5s;
-    animation                        : shake 0.5s;
+footer>a:hover {
+    -webkit-animation: shake 0.5s;
+    animation: shake 0.5s;
     -webkit-animation-iteration-count: infinite;
-    animation-iteration-count        : infinite;
+    animation-iteration-count: infinite;
 }
 
 @-webkit-keyframes shake {
     0% {
-        -webkit-transform            : translate(1px, 1px) rotate(0deg);
-        transform                    : translate(1px, 1px) rotate(0deg);
+        -webkit-transform: translate(1px, 1px) rotate(0deg);
+        transform: translate(1px, 1px) rotate(0deg);
     }
 
     10% {
-        -webkit-transform            : translate(-1px, -2px) rotate(-1deg);
-        transform                    : translate(-1px, -2px) rotate(-1deg);
+        -webkit-transform: translate(-1px, -2px) rotate(-1deg);
+        transform: translate(-1px, -2px) rotate(-1deg);
     }
 
     20% {
-        -webkit-transform            : translate(-3px, 0px) rotate(1deg);
-        transform                    : translate(-3px, 0px) rotate(1deg);
+        -webkit-transform: translate(-3px, 0px) rotate(1deg);
+        transform: translate(-3px, 0px) rotate(1deg);
     }
 
     30% {
-        -webkit-transform            : translate(3px, 2px) rotate(0deg);
-        transform                    : translate(3px, 2px) rotate(0deg);
+        -webkit-transform: translate(3px, 2px) rotate(0deg);
+        transform: translate(3px, 2px) rotate(0deg);
     }
 
     40% {
-        -webkit-transform            : translate(1px, -1px) rotate(1deg);
-        transform                    : translate(1px, -1px) rotate(1deg);
+        -webkit-transform: translate(1px, -1px) rotate(1deg);
+        transform: translate(1px, -1px) rotate(1deg);
     }
 
     50% {
-        -webkit-transform            : translate(-1px, 2px) rotate(-1deg);
-        transform                    : translate(-1px, 2px) rotate(-1deg);
+        -webkit-transform: translate(-1px, 2px) rotate(-1deg);
+        transform: translate(-1px, 2px) rotate(-1deg);
     }
 
     60% {
-        -webkit-transform            : translate(-3px, 1px) rotate(0deg);
-        transform                    : translate(-3px, 1px) rotate(0deg);
+        -webkit-transform: translate(-3px, 1px) rotate(0deg);
+        transform: translate(-3px, 1px) rotate(0deg);
     }
 
     70% {
-        -webkit-transform            : translate(3px, 1px) rotate(-1deg);
-        transform                    : translate(3px, 1px) rotate(-1deg);
+        -webkit-transform: translate(3px, 1px) rotate(-1deg);
+        transform: translate(3px, 1px) rotate(-1deg);
     }
 
     80% {
-        -webkit-transform            : translate(-1px, -1px) rotate(1deg);
-        transform                    : translate(-1px, -1px) rotate(1deg);
+        -webkit-transform: translate(-1px, -1px) rotate(1deg);
+        transform: translate(-1px, -1px) rotate(1deg);
     }
 
     90% {
-        -webkit-transform            : translate(1px, 2px) rotate(0deg);
-        transform                    : translate(1px, 2px) rotate(0deg);
+        -webkit-transform: translate(1px, 2px) rotate(0deg);
+        transform: translate(1px, 2px) rotate(0deg);
     }
 
     100% {
-        -webkit-transform            : translate(1px, -2px) rotate(-1deg);
-        transform                    : translate(1px, -2px) rotate(-1deg);
+        -webkit-transform: translate(1px, -2px) rotate(-1deg);
+        transform: translate(1px, -2px) rotate(-1deg);
     }
 }
 
 @keyframes shake {
     0% {
-        -webkit-transform            : translate(1px, 1px) rotate(0deg);
-        transform                    : translate(1px, 1px) rotate(0deg);
+        -webkit-transform: translate(1px, 1px) rotate(0deg);
+        transform: translate(1px, 1px) rotate(0deg);
     }
 
     10% {
-        -webkit-transform            : translate(-1px, -2px) rotate(-1deg);
-        transform                    : translate(-1px, -2px) rotate(-1deg);
+        -webkit-transform: translate(-1px, -2px) rotate(-1deg);
+        transform: translate(-1px, -2px) rotate(-1deg);
     }
 
     20% {
-        -webkit-transform            : translate(-3px, 0px) rotate(1deg);
-        transform                    : translate(-3px, 0px) rotate(1deg);
+        -webkit-transform: translate(-3px, 0px) rotate(1deg);
+        transform: translate(-3px, 0px) rotate(1deg);
     }
 
     30% {
-        -webkit-transform            : translate(3px, 2px) rotate(0deg);
-        transform                    : translate(3px, 2px) rotate(0deg);
+        -webkit-transform: translate(3px, 2px) rotate(0deg);
+        transform: translate(3px, 2px) rotate(0deg);
     }
 
     40% {
-        -webkit-transform            : translate(1px, -1px) rotate(1deg);
-        transform                    : translate(1px, -1px) rotate(1deg);
+        -webkit-transform: translate(1px, -1px) rotate(1deg);
+        transform: translate(1px, -1px) rotate(1deg);
     }
 
     50% {
-        -webkit-transform            : translate(-1px, 2px) rotate(-1deg);
-        transform                    : translate(-1px, 2px) rotate(-1deg);
+        -webkit-transform: translate(-1px, 2px) rotate(-1deg);
+        transform: translate(-1px, 2px) rotate(-1deg);
     }
 
     60% {
-        -webkit-transform            : translate(-3px, 1px) rotate(0deg);
-        transform                    : translate(-3px, 1px) rotate(0deg);
+        -webkit-transform: translate(-3px, 1px) rotate(0deg);
+        transform: translate(-3px, 1px) rotate(0deg);
     }
 
     70% {
-        -webkit-transform            : translate(3px, 1px) rotate(-1deg);
-        transform                    : translate(3px, 1px) rotate(-1deg);
+        -webkit-transform: translate(3px, 1px) rotate(-1deg);
+        transform: translate(3px, 1px) rotate(-1deg);
     }
 
     80% {
-        -webkit-transform            : translate(-1px, -1px) rotate(1deg);
-        transform                    : translate(-1px, -1px) rotate(1deg);
+        -webkit-transform: translate(-1px, -1px) rotate(1deg);
+        transform: translate(-1px, -1px) rotate(1deg);
     }
 
     90% {
-        -webkit-transform            : translate(1px, 2px) rotate(0deg);
-        transform                    : translate(1px, 2px) rotate(0deg);
+        -webkit-transform: translate(1px, 2px) rotate(0deg);
+        transform: translate(1px, 2px) rotate(0deg);
     }
 
     100% {
-        -webkit-transform            : translate(1px, -2px) rotate(-1deg);
-        transform                    : translate(1px, -2px) rotate(-1deg);
+        -webkit-transform: translate(1px, -2px) rotate(-1deg);
+        transform: translate(1px, -2px) rotate(-1deg);
     }
 }
