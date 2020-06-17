@@ -30,7 +30,7 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 
-/*Barre de recherche*/
+/*Barre de recherche
 #search {
     border: 2px lightgrey solid;
     background-color: lightgrey;
@@ -44,6 +44,7 @@ h1 {
     width: 100%;
     background-color: lightgrey;
 }
+*/
 
 /*Page menu*/
 main {
