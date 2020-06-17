@@ -25,6 +25,7 @@ p {
     font-family: 'Shadows Into Light', cursive;
     background: -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
     background: linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
