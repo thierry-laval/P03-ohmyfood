@@ -30,6 +30,7 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 
+<<<<<<< HEAD
 /*Barre de recherche
 #search {
     border: 2px lightgrey solid;
@@ -46,6 +47,8 @@ h1 {
 }
 */
 
+=======
+>>>>>>> parent of 6288caa... Update style.css
 /*Page menu*/
 main {
     display: -webkit-box;
@@ -140,7 +143,6 @@ img {
     font-family: 'Old Standard TT', serif;
     background: -o-linear-gradient(328deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
     background: linear-gradient(122deg, rgba(245, 158, 7, 1) 0%, rgba(141, 0, 255, 1) 100%);
-    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 30px;
@@ -156,7 +158,6 @@ img {
     font-family: 'Dancing Script', cursive;
     background: -o-linear-gradient(3deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
     background: linear-gradient(87deg, rgba(9, 9, 121, 1) 15%, rgba(0, 212, 255, 1) 100%);
-    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 30px;
@@ -173,7 +174,6 @@ img {
     font-style: italic;
     background: -o-linear-gradient(186deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
     background: linear-gradient(264deg, rgba(65, 150, 60, 1) 0%, rgba(190, 255, 127, 1) 100%);
-    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 30px;
