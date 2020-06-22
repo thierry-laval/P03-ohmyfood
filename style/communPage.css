@@ -19,8 +19,8 @@ body {
 
 /*header*/
 header {
-    background-color: #569C87;
-    color: #DCBF5D;
+    background-color: #009D87;
+    color: #FECC35;
     text-align: center;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -29,7 +29,7 @@ header {
 
 h1>a {
     text-decoration: none;
-    color: #DCBF5D;
+    color: #FECC35;
 }
 
 /*section*/
@@ -151,7 +151,7 @@ hr {
 
 /*Footer*/
 footer {
-    background-color: #569C87;
+    background-color: #009D87;
     padding-top: 12px;
     padding-bottom: 12px;
     font-size: 25px;
@@ -172,7 +172,7 @@ footer {
 
 footer>a {
     text-decoration: none;
-    color: #DCBF5D;
+    color: #FECC35;
     padding-left: 12px;
     padding-right: 12px;
 }
