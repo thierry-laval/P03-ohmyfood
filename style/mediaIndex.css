@@ -18,8 +18,8 @@
 
     /*Image de marque*/
     header {
-        background-color: #569C87;
-        color: #DCBF5D;
+        background-color: #009D87;
+        color: #FECC35;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -92,11 +92,11 @@
     }
 
     .bouton {
-        background-color: #569C87;
+        background-color: #009D87;
         border-radius: 10px;
         display: inline-block;
         cursor: pointer;
-        color: #DCBF5D;
+        color: #FECC35;
         font-size: 20px;
         padding: 15px;
         text-decoration: none;
