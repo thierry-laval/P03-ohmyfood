@@ -1,6 +1,13 @@
 # ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
 _`Début de formation le 20/04/2020`_
-   <br>[🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+
+### Auteur
+
+👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+
+* Github:  [@Thierry Laval](https://github.com/thierry-laval)
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+
 ***
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
 ![left 100%](./images/logo_ohmyfood.png)
