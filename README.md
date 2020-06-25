@@ -38,5 +38,8 @@ Compétences évaluées:
 
 [Validation css en ligne](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
 
+[Validation mobile en ligne](https://search.google.com/test/mobile-friendly?id=QzQlH7d6M8uQueMw_xEhqA)
+
+[Validation de performance](https://gtmetrix.com/reports/thierry-laval.github.io/O7xm6Kta)
 
 ![left 100%](./images/bande.png)
