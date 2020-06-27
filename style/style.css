@@ -122,10 +122,13 @@ a {
 
 .alignement {
     padding-top: 180px;
+    padding-bottom: 100px;
+
 }
 
 .alignementNote {
     padding-top: 120px;
+    padding-bottom: 100px;
 }
 
 img {
