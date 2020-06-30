@@ -28,7 +28,7 @@ Compétences évaluées:
 
 ### 🔨 Utilisé dans ce projet
 
-[Briefing créatif d'Ohmyfood](./Briefing_OpenClassrooms/01-Brief_créatif_Ohmyfood.pdf)
+[Briefing créatif d'Ohmyfood](https://github.com/thierry-laval/Ohmyfood/blob/master/Briefing_OpenClassrooms/01%20-%20Briefing%20Ohmyfood.pdf)
 
 [Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
 
