@@ -1,3 +1,8 @@
+/*La règle signifie : 
+« Pour tous les types d'écrans, si la largeur de la fenêtre ne dépasse pas 1024 px, 
+alors exécuter les règles CSS suivantes »
+*/
+
 @media all and (max-width: 1024px) {
     * {
         margin: 0;
