@@ -1,4 +1,5 @@
 /*section*/
+/*Position du logo de la note en haut de la page*/
 img {
     width: 15%;
     padding-top: 50px;
@@ -29,6 +30,7 @@ p {
     margin-right: 80px;
 }
 
+/*Position du logo de la note en ba de la page*/
 #img2 {
     width: 7%;
     margin-bottom: -10px;
