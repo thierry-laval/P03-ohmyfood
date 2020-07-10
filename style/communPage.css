@@ -132,7 +132,7 @@ article {
     visibility: hidden;
     height: 1px;
     background: black;
-    /*Pourquoi différentes lignes de transition ? 
+    /*Pourquoi différentes lignes de transition ?
     Pour la compatibilité avec tous les navigateurs*/
     -webkit-transition: all 1s ease;
     -o-transition: all 1s ease;
