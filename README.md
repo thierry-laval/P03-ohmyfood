@@ -1,32 +1,40 @@
-# ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
+# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) OpenClassrooms-Développeur Web
+
 _`Début de formation le 20/04/2020`_
 
-### Auteur
+## Auteur
 
-👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
 
-* Github:  [@Thierry Laval](https://github.com/thierry-laval)
+* Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
 ***
+***
+
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
+
 ![left 100%](./images/logo_ohmyfood.png)
 ***
+
 ### ![left 50%](images/icons8.png) Construire un site pour pouvoir afficher les différents menus
+
 Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
 
 #### Dynamisez une page web avec des animations CSS
+
 Compétences évaluées:
 
-- Mettre en œuvre des effets CSS graphiques avancés
+* Mettre en œuvre des effets CSS graphiques avancés
 
-- Assurer la cohérence graphique d'un site web
-  
-- Mettre en place une structure de navigation pour un site web
+* Assurer la cohérence graphique d'un site web
 
-### 🔨 Utilisé dans ce projet
+* Mettre en place une structure de navigation pour un site web
+
+### 🔨 Utilisé dans ce projet
 
 [Briefing créatif d'Ohmyfood](https://github.com/thierry-laval/Ohmyfood/blob/master/Briefing_OpenClassrooms/01%20-%20Briefing%20Ohmyfood.pdf)
 
