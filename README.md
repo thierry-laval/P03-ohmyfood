@@ -19,7 +19,7 @@ _`Début de formation le 20/04/2020`_
 
 ### ![left 50%](images/icons8.png) Construire un site pour pouvoir afficher les différents menus
 
-Site : [Hébergé sur GitHub](https://thierry-laval.github.io/Ohmyfood/ "Cliquez pour voir le site")
+Site : [Hébergé sur GitHub](https://thierry-laval.github.io/P03-ohmyfood/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
 
