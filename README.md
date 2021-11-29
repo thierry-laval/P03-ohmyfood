@@ -11,7 +11,6 @@ _`Début de formation le 20/04/2020`_
 * Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
 ***
-***
 
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
 
